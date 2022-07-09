@@ -1,1 +1,1 @@
-O pensamento computacional é o processo de pensamento envolvido n expressão de soluções em passos computacionais. Humanos e máquinas podem seguir este processo, e o pensamento computacional é uma habilidade generalista. 
+O pensamento computacional é o processo de pensamento envolvido na expressão de soluções em passos computacionais. Humanos e máquinas podem seguir este processo, e o pensamento computacional é uma habilidade generalista. 
