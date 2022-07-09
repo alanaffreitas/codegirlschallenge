@@ -1,1 +1,10 @@
 O pensamento computacional é o processo de pensamento envolvido na expressão de soluções em passos computacionais. Humanos e máquinas podem seguir este processo, e o pensamento computacional é uma habilidade generalista. 
+
+O pensamento computacional pode ser definido através de quatro etapas:
+
+1. Decomposição;
+2. Reconhecimento de padrões;
+3. Abstração;
+4. Design de algoritmo. 
+
+
